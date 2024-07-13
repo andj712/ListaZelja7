@@ -4,6 +4,7 @@ kind: Service
 
 metadata:
   name: redis-service
+  namespace: redis
 
 spec:
   selector:
