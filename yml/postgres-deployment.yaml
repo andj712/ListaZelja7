@@ -4,7 +4,7 @@ kind: Deployment
 
 metadata:
   name: postgres-deployment
-  namespace:postgres
+  namespace: postgres
 
 spec:
   replicas: 1
