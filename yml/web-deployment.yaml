@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: wishlist-app-container
-          image: andj712/listazelja1:latest
+          image: andj712/lista_zelja:latest
           ports:
             - containerPort: 80
           env:
