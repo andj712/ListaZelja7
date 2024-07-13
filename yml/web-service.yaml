@@ -4,6 +4,7 @@ kind: Service
 
 metadata:
   name: web-service
+  namespace: web
 
 spec:
   selector:
